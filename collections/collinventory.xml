@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/data/repos/git/chronicles/collections/CiteCollectionInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<collectionService
+    xmlns="http://chs.harvard.edu/xmlns/cite">
+    <citeCollection
+        canonicalId="URN"
+        label="Latin"
+        urn="urn:cite:latin:vocab">
+        <namespaceMapping
+            abbr="latin"
+            fullValue="http://shot.holycross.edu/latin"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Vocabulary from Shelmerdine, Introduction to
+            Latin</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Gradually expanding</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Vocabulary from Shelmerdine, Introduction to
+            Latin</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/">CC-attribution-share alike</rights>
+        <source
+            type="file"
+            value="vocab.csv"/>
+        <citeProperty
+            label="Identifier"
+            name="URN"
+            type="citeurn"/>
+        <citeProperty
+            label="Part of speech"
+            name="PoS"
+            type="string">
+            <valueList>
+                <value>adjective</value>
+                <value>noun</value>
+                <value>verb</value>
+                <value>other</value>
+            </valueList>
+        </citeProperty>
+        <citeProperty
+            label="Latin"
+            name="Latin"
+            type="string"/>
+        <citeProperty
+            label="English"
+            name="English"
+            type="string"/>
+        <citeProperty
+            label="Chapter"
+            name="Chapter"
+            type="number"/>
+    </citeCollection>
+</collectionService>
