@@ -1,19 +1,19 @@
-PoS,Latin,English,Chapter
-noun,"agricola, agricolae m.",farmer,1
-noun,"aqua, aquae f.",water,1
-noun,"femina, feminae f.",woman,1
-noun,"fortuna, fortunae f.","chance, luck, fortune",1
-noun,"nauta, nautae m.",sailor,1
-noun,"pecunia, pecuniae f.","money, property",1
-noun,"rosa, rosae f.",rose,1
-verb,"amo, amare, amavi, amatus",to love,1
-verb,"debeo, debēre, debui, debitus","'ought to, should'; to owe; to be obligated to",1
-verb,"habeo, habēre, habui, habitus","to have, consider",1
-verb,"iaceo, iacēre, iacui, iaciturus","to lie (e.g., on the groun), lie dead",1
-verb,"iuvo, iuvare, iuvi, iutus","to help, please",1
-other,"-n (enclitic postpositive)",signals a yes-no question,1
-verb,"labora, laborare, laboravi, laboratus","to work, strive",1
-verb,"laudo, laudare, laudavi, laudatus","to praise",1
-verb,"moneo, monēre, monui, monitus","to advise, warn, remind",1
-verb,"opto, optare, optavi, optatus","to choose, desire, wish for",1
-verb,"supero, superare, superavi, superatus","to overcome, conquer, surpass",1
+PoS,Latin,English,Chapter,URN
+noun,"agricola, agricolae m.",farmer,1,
+noun,"aqua, aquae f.",water,1,
+noun,"femina, feminae f.",woman,1,
+noun,"fortuna, fortunae f.","chance, luck, fortune",1,
+noun,"nauta, nautae m.",sailor,1,
+noun,"pecunia, pecuniae f.","money, property",1,
+noun,"rosa, rosae f.",rose,1,
+verb,"amo, amare, amavi, amatus",to love,1,
+verb,"debeo, debēre, debui, debitus","'ought to, should'; to owe; to be obligated to",1,
+verb,"habeo, habēre, habui, habitus","to have, consider",1,
+verb,"iaceo, iacēre, iacui, iaciturus","to lie (e.g., on the groun), lie dead",1,
+verb,"iuvo, iuvare, iuvi, iutus","to help, please",1,
+other,"-n (enclitic postpositive)",signals a yes-no question,1,
+verb,"labora, laborare, laboravi, laboratus","to work, strive",1,
+verb,"laudo, laudare, laudavi, laudatus","to praise",1,
+verb,"moneo, monēre, monui, monitus","to advise, warn, remind",1,
+verb,"opto, optare, optavi, optatus","to choose, desire, wish for",1,
+verb,"supero, superare, superavi, superatus","to overcome, conquer, surpass",1,
